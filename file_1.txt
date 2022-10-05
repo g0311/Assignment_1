@@ -1,1 +1,5 @@
-file_1's content is deleted
+file_1 checking
+f
+i
+l
+e
