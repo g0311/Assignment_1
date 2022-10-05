@@ -1,1 +1,1 @@
-file_1 is modified
+file_1's content is deleted
